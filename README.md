@@ -1,9 +1,10 @@
 # [Aligning Relational Learning with Lipschitz Fairness](https://openreview.net/forum?id=ODSgo2m8aE)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Welcome to the official code repository for the **ICLR 2024** paper "[Aligning Relational Learning with Lipschitz Fairness](https://openreview.net/forum?id=ODSgo2m8aE)"! This repository is dedicated to providing a comprehensive and easy-to-use implementation of the methodologies discussed in our paper.
 
 ## Introduction
-Our work introduces a novel approach to align relational learning with Lipschitz fairness principles. This repository offers a hands-on experience to understand and implement our methods. The code is designed to be modular, allowing for easy experimentation and extension.
+Our work introduces a novel approach to align relational learning with Lipschitz fairness principles. This repository offers a hands-on experience to understand and implement our methods.
 
 ## Getting Started
 
@@ -60,3 +61,6 @@ For any queries regarding the code or research, please contact us at chunhui.zha
 
 ## Acknowledgments
 We would like to thank all the contributors and reviewers who helped in reviewing this research.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
